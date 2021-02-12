@@ -1,1 +1,1 @@
-# Smart-waste-bin-
+# Smart-waste-bin
